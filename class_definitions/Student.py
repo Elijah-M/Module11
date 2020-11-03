@@ -52,3 +52,4 @@ freshmen.change_major('Being Awesome!')
 freshmen.update_gpa(3.0)
 print('=' * 40)  # just a divider
 print(freshmen.display())
+del freshmen
