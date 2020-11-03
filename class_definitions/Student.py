@@ -1,3 +1,9 @@
+"""
+Author: Elijah Morishita
+elmorishita@dmacc.edu
+11/2/2020
+This program gathers and displays student information using a class
+"""
 class Student:
     """ The Student class"""
 
