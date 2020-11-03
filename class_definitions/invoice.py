@@ -130,3 +130,4 @@ invoice = Invoice(1, captain_mal)
 invoice.add_item({'iPad': 799.99})
 invoice.add_item({'Surface': 999.99})
 invoice.create_invoice()
+del captain_mal
